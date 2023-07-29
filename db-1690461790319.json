@@ -1,0 +1,114 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "car": "Mitsubishi",
+      "car_model": "Montero",
+      "car_color": "Yellow",
+      "car_model_year": 2002,
+      "car_vin": "SAJWJ0FF3F8321657",
+      "price": "$2814.46",
+      "imgUrl": "https://img.philkotse.com/crop/600x338/2017/08/30/a0ec2a4ad-03c7.jpg",
+      "availability": false
+    },
+    {
+      "id": 2,
+      "car": "Volkswagen",
+      "car_model": "Passat",
+      "car_color": "Maroon",
+      "car_model_year": 2008,
+      "car_vin": "WBANV9C51AC203320",
+      "price": "$1731.98",
+      "imgUrl": "https://i.ytimg.com/vi/PUkrA9cYYho/maxresdefault.jpg",
+      "availability": false
+    },
+    {
+      "id": 3,
+      "car": "Saturn",
+      "car_model": "L-Series",
+      "car_color": "Red",
+      "car_model_year": 2003,
+      "car_vin": "1HGCR6F34EA246317",
+      "price": "$2238.35",
+      "imgUrl": "https://media.ed.edmunds-media.com/for-sale/38-1g8jw54r73y546853/img-1-600x400.jpg",
+      "availability": true
+    },
+    {
+      "id": 4,
+      "car": "Jeep",
+      "car_model": "Compass",
+      "car_color": "Violet",
+      "car_model_year": 2012,
+      "car_vin": "4USBT33454L511606",
+      "price": "$2732.99",
+      "imgUrl": "https://bidfax.info/uploads/posts/2018-12/13/jeep-grand-cher-2011-1j4rr4gt8bc542916-img1.jpg",
+      "availability": false
+    },
+    {
+      "id": 5,
+      "car": "Mitsubishi",
+      "car_model": "Lancer Evolution",
+      "car_color": "Purple",
+      "car_model_year": 2002,
+      "car_vin": "WAU2GBFCXDN339713",
+      "price": "$3849.47",
+      "imgUrl": "https://i.pinimg.com/originals/6e/1c/35/6e1c359c1ee560e97b8ceb85b1231394.jpg",
+      "availability": false
+    },
+    {
+      "id": 6,
+      "car": "Chevrolet",
+      "car_model": "Suburban",
+      "car_color": "Indigo",
+      "car_model_year": 2009,
+      "car_vin": "WAUSH98E96A592763",
+      "price": "$1252.30",
+      "imgUrl": "https://file.kelleybluebookimages.com/kbb/base/hou…Suburban%201500-FrontSide_CTSUBLTZ091_505x375.jpg",
+      "availability": false
+    },
+    {
+      "id": 7,
+      "car": "Dodge",
+      "car_model": "Ram Van B350",
+      "car_color": "Yellow",
+      "car_model_year": 1994,
+      "car_vin": "KNADH4A37A6919967",
+      "price": "$1762.42",
+      "imgUrl": "https://s.car.info/image_files/1920/0-927555.jpg",
+      "availability": true
+    },
+    {
+      "id": 8,
+      "car": "Isuzu",
+      "car_model": "Ascender",
+      "car_color": "Teal",
+      "car_model_year": 2004,
+      "car_vin": "5GTMNGEE8A8713093",
+      "price": "$1081.40",
+      "imgUrl": "https://www.edmunds.com/assets/m/isuzu/ascender/20…3_isuzu_ascender_4dr-suv_limited_fq_oem_1_500.jpg",
+      "availability": true
+    },
+    {
+      "id": 9,
+      "car": "BMW",
+      "car_model": "6 Series",
+      "car_color": "Purple",
+      "car_model_year": 2008,
+      "car_vin": "5TDBY5G16DS675822",
+      "price": "$1258.99",
+      "imgUrl": "https://m.atcdn.co.uk/a/media/9e3577aaa1b6408cb0a8fda4784d1ab2.jpg",
+      "availability": true
+    },
+    {
+      "id": 10,
+      "car": "Mitsubishi",
+      "car_model": "GTO",
+      "car_color": "Purple",
+      "car_model_year": 1994,
+      "car_vin": "JM1NC2PFXE0140518",
+      "price": "$3822.92",
+      "imgUrl": "https://i.pinimg.com/1200x/5c/0c/be/5c0cbe45fa1a69bdaf8115837dd3b190.jpg",
+      "availability": false
+    }
+  ]
+}
